@@ -1,1 +1,36 @@
-/* Write your CSS here! */
+body {
+
+margin: 8px;
+display: block;
+
+}
+
+
+#mainHeading {
+
+text-align: center;
+padding-top: 25px;
+padding-bottom: 25px;
+color: purple;
+
+}
+
+
+#list {
+list-style-type: none;
+}
+
+
+.funParagraph {
+
+color: blue;
+
+}
+
+
+img {
+
+height: 500px;
+width: 31%;
+
+}
